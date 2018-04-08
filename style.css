@@ -1,1 +1,41 @@
 
+article {
+	margin: 0 auto;
+    width: 1140px;
+}
+
+h1 {
+	text-align: center;
+}
+img {
+	width: 300px;
+	height: 100%;
+	padding: 15px;
+}
+
+p {
+	color: #838E95;
+}
+
+
+.clearfix:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.paragraph {
+	display: flex;
+}
+
+
+.rounded {
+	border-radius: 30px;
+}
+.float-right {
+	float: right;
+}
+
+.float-left {
+	float: left;
+}
